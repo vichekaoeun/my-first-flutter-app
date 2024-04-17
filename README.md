@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## What it looks like:
+![app1](./images/flutter%20app%201.png)
+![app2](./images/flutter%20app%202.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
